@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3a8a91bb.css",
-    "main.js": "/static/js/main.eee33034.js",
+    "main.js": "/static/js/main.88df49a7.js",
     "static/js/787.1e62910f.chunk.js": "/static/js/787.1e62910f.chunk.js",
     "static/media/curlsSup.png": "/static/media/curlsSup.9edd39a49207bb3eccea.png",
     "static/media/pullup1.jpg": "/static/media/pullup1.c43553698f23b0706d7e.jpg",
@@ -9,6 +9,7 @@
     "static/media/barbellRow.jpg": "/static/media/barbellRow.d668117a0ff78c1bace3.jpg",
     "static/media/pullover.png": "/static/media/pullover.9c248988cc86ae1b9ae8.png",
     "static/media/situps2.jpg": "/static/media/situps2.533abc56dff9d7be2dfe.jpg",
+    "static/media/miiGymCoachLogosPink.jpeg": "/static/media/miiGymCoachLogosPink.2f8a18faadea24ec83fe.jpeg",
     "static/media/boxSquat.jpg": "/static/media/boxSquat.a7523d1188559e5f854c.jpg",
     "static/media/hammerCurls.jpg": "/static/media/hammerCurls.60728f0dea111c9aa912.jpg",
     "static/media/legRaiseSuspended.jpg": "/static/media/legRaiseSuspended.82f6f5ee76d8251bf39c.jpg",
@@ -30,11 +31,11 @@
     "static/media/millitaryPress.jpg": "/static/media/millitaryPress.e7c3013e74abcc5192fa.jpg",
     "index.html": "/index.html",
     "main.3a8a91bb.css.map": "/static/css/main.3a8a91bb.css.map",
-    "main.eee33034.js.map": "/static/js/main.eee33034.js.map",
+    "main.88df49a7.js.map": "/static/js/main.88df49a7.js.map",
     "787.1e62910f.chunk.js.map": "/static/js/787.1e62910f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a8a91bb.css",
-    "static/js/main.eee33034.js"
+    "static/js/main.88df49a7.js"
   ]
 }
